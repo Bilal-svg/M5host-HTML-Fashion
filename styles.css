@@ -56,7 +56,22 @@ position: relative;
 .ad{
 	margin: 100px auto;
 	width: fit-content ;
+	position: relative;
 }
+
+.ad-block{
+	position: absolute;
+    top: 10%;
+    left: 7%;
+    color: black;
+    max-width: 50%;
+
+}
+
+
+
+
+
 
 .logo-div{
 	margin: 0 auto;
