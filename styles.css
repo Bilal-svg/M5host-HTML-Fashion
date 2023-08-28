@@ -1,0 +1,131 @@
+.header1{
+position: relative;
+}
+
+
+
+.text-blockh {
+ 
+ position: absolute;
+    top: 35%;
+    left: 20%;
+    max-width: 50%;
+    color: white;
+    line-height: 0;
+}
+
+.login-block{
+	position: absolute;
+    top: 3%;
+    right: 5%;
+    color: darkgray;
+    line-height: 0;
+    letter-spacing: 3px;
+
+}
+
+
+
+.container1{
+	margin: 100px 178px;
+	display: flex;
+		
+}
+
+
+
+
+
+.img2345{
+	padding: 0 0 0 4px;
+	 
+	
+}
+
+.gallery{
+	margin: 0 auto;
+	display: flex;
+	max-width: fit-content;		
+}
+
+.gallery-img{ 
+	margin: 0 15px;
+
+}
+
+.ad{
+	margin: 100px auto;
+	width: fit-content ;
+}
+
+.logo-div{
+	margin: 0 auto;
+	min-width: fit-content;
+	padding: 90px 0;
+	background: lightgray;
+}
+.logo{
+	margin: 0 80px;
+}
+
+.feed{
+	margin: 0 auto;
+	min-width: fit-content;
+	padding: 90px 0;
+	background: lightgray;
+	text-align: center;
+}
+
+.feed-img{
+	width: 230px;
+	height: 230px;
+	margin: 10px;
+	
+}
+
+.footer{
+	position: relative;
+
+}
+
+.footer-img{
+	width: 100%;
+	display: block;
+	filter: brightness(40%);
+
+}
+
+.text-block1 {
+ position: absolute;
+    top: 15%;
+    left: 20%;
+    max-width: 20%;
+    color: white;
+    line-height: 1.8;
+  
+}
+.text-block2 {
+ position: absolute;
+    top: 15%;
+    left: 40%;
+    max-width: 20%;
+    color: white;
+    line-height: 1.8;
+  
+}
+.text-block3 {
+ position: absolute;
+    top: 15%;
+    left: 60%;
+    max-width: 20%;
+    color: white;
+    line-height: 1.8;
+
+  
+}
+
+.copyright{
+	background-color: gray;
+	padding: 1px;
+	filter: brightness(50%);
+}
